@@ -9,7 +9,7 @@ import {
   Settings,
   CalendarCheck,
   FileText,
-  User,
+ 
 } from "lucide-react"
 
 import { NavMain } from "@/components/nav-main"
